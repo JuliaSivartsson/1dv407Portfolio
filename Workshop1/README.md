@@ -2,6 +2,6 @@
 
 **Group members**
 
-Julia Sivartsson
-Erik Hamrin
-Micael Persson
+*Julia Sivartsson
+*Erik Hamrin
+*Micael Persson
