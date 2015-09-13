@@ -1,7 +1,6 @@
 ##Workshop 1
 
-**Group members**
-
+**Group members:**
 * Julia Sivartsson
 * Erik Hamrin
 * Micael Persson
